@@ -149,12 +149,12 @@ namespace org.goodspace.Utils.ImageNow {
     /// <summary>
     /// Name of the external message table in the ImageNow database.
     /// </summary>
-    public const string IN_EXTERN_MSG_TABLE = "tmp.IN_EXTERN_MSG";
+    public const string IN_EXTERN_MSG_TABLE = "IN_EXTERN_MSG";
 
     /// <summary>
     /// Name of the external message property table in the ImageNow database.
     /// </summary>
-    public const string IN_EXTERN_MSG_PROP_TABLE = "tmp.IN_EXTERN_MSG_PROP";
+    public const string IN_EXTERN_MSG_PROP_TABLE = "IN_EXTERN_MSG_PROP";
 
     /// <summary>
     /// Name of the message direction column in the ImageNow database.
